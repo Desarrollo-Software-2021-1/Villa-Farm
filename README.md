@@ -1,1 +1,7 @@
 # Villa-Farm
+
+# Integrantes:
+  - Rodrigo Mechan : 20160496I
+  - Alesandra Yagi : 20162230F
+  - Victor Saravia : 20152248J
+  - Ebert Limache : 20151380A
