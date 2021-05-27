@@ -1,0 +1,10 @@
+.card-aux {
+    width: auto;
+    margin: 10px;
+    background: linear-gradient(to bottom, gray, white);
+    border-radius: 5px;
+}
+.card-aux p {
+    font-size: 30px;
+    text-align: center;
+}
